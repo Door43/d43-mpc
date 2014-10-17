@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mpc:home|Door43 (mpc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mpc|d43-mpc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mpc/archive/master.zip|d43-mpc.zip]]
+
+**Recent Changes**
+{{changes>ns = mpc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mpc|Ethnologue data]]
+
